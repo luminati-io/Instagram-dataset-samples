@@ -1,6 +1,6 @@
 # instagram-dataset-samples
 Sample datasets of over 400 Instagram coding influencers
-Two github dataset samples of over 400 leading Instagram Python & Github coding influencers. Datasets were extracted using the <b>Bright Data Collector</b>.
+Two github dataset samples of over 400 leading Instagram [Python](https://www.instagram.com/explore/tags/python/) & [Github](https://www.instagram.com/explore/tags/github/) coding influencers. Datasets were extracted using the <b>Bright Data Collector</b>.
 
 <h2>Data points included in these free dataset samples:</h2>
 
