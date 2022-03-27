@@ -33,6 +33,10 @@ and
 
 Additional filter query values include: posts count, cuntry, verified account, multiple hashtag combinations and more.
 
+Available dataset file formats - <b>JSON, NDJSON, CSV, XLSX</b>.
+
+Dataset delivery type options - <b>API download, Amazon S3, Google cloud, Microsoft Azure, SFTP</b>.
+
 Get the full Instagram influencers dataset on <b>[Bright Data datasets page](https://brightdata.com/products/datasets#social-media)</b>.
 
 <h2>Additional Instagram datasets available:</h2>
