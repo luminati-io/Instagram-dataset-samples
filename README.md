@@ -1,8 +1,8 @@
 # instagram-dataset-samples
-Sample datasets of over 400 Instagram coding influencers
-Two github dataset samples of over 400 leading Instagram [Python](https://www.instagram.com/explore/tags/python/) & [Github](https://www.instagram.com/explore/tags/github/) coding influencers. Datasets were extracted using the <b>Bright Data Collector</b>.
+Sample datasets of 2180 Instagram coding influencers
+A github dataset sample of over 2000 leading Instagram [Github](https://www.instagram.com/explore/tags/github/) coding influencers. Dataset was extracted using the <b>Bright Data Collector</b>.
 
-<h2>Data points included in these free dataset samples:</h2>
+<h2>Data points included in this free dataset:</h2>
 
 * followers count
 * profile type
@@ -17,30 +17,30 @@ Two github dataset samples of over 400 leading Instagram [Python](https://www.in
 * highlights
 * posts
 
-These are sample subsets which are derived from the "Leading Instagram influencers (public data)"
-dataset which includes <b>1,300,000 Instagram non-business Influencer profiles</b>.
 
-In this example, the large dataset was filtered down into subsets using smart filter queries available on the Bright Data control panel.
+
+This is a sample subset which is derived from the "All Instagram account, business & nonbusiness (public data)"
+dataset which includes <b>527,786,217 Instagram profiles</b>.
+
+In this example, the large dataset was filtered down into a smaller subset using smart filter queries available on the Bright Data control panel.
 <h2>Queries used for filtering this subset:</h2>
 
-*     $or: [{"post_hashtags":"python"},{"bio_hashtags":"python"}]
-*     followers: {"$gt":900}
-
-and
 
 *   	$or: [{"post_hashtags":"github"},{"bio_hashtags":"github"}]
-*   	followers: {"$gt":1000}
+*   	followers: {"$gt":100}
 
-Additional filter query values include: posts count, cuntry, verified account, multiple hashtag combinations and more.
+Additional filter query values include: <b>Posts count, cuntry, verified account, multiple hashtag combinations and more.</b>
 
-Available dataset file formats - <b>JSON, NDJSON, CSV, XLSX</b>.
+Available dataset file formats: <b>JSON, NDJSON, CSV, XLSX</b>.
 
-Dataset delivery type options - <b>API download, Amazon S3, Google cloud, Microsoft Azure, SFTP</b>.
+Dataset delivery type options: <b>API download, Amazon S3, Google cloud, Microsoft Azure, SFTP</b>.
 
-Get the full Instagram influencers dataset on <b>[Bright Data datasets page](https://brightdata.com/products/datasets#social-media)</b>.
+Data enrichment available as an addition to the data points extracted: <b>Avg. post engagement rate, brand affiliation and more.</b>
+
+Get the full Instagram dataset on <b>[Bright Data datasets page](https://brightdata.com/products/datasets/instagram)</b>.
 
 <h2>Additional Instagram datasets available:</h2>
 
-*   527,786,217 All "Instagram account, business & nonbusiness profiles"
+*   1,300,000 "Leading Instagram influencers" (over 900 followers and over 2.5% post engagement rate)
 *   1,100,000 "Leading Instagram business accounts"
 *   2,035,212 "Instagram music related professionals"
