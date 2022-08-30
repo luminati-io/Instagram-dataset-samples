@@ -1,5 +1,9 @@
 # instagram-dataset-samples
-Sample datasets of 2180 Instagram coding influencers
+
+A sample dataset of 2180 Instagram coding influencers
+
+![instagram dataset header](https://github.com/luminati-io/Instagram-dataset-samples/blob/main/Instagram%20Datasets.png)
+
 A github dataset sample of over 2000 leading Instagram [Github](https://www.instagram.com/explore/tags/github/) coding influencers. Dataset was extracted using the <b>Bright Data Collector</b>.
 
 <h2>Data points included in this free dataset:</h2>
