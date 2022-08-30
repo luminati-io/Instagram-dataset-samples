@@ -45,6 +45,6 @@ Get the full Instagram dataset on <b>[Bright Data datasets page](https://brightd
 *   1,100,000 "Leading Instagram business accounts"
 *   2,035,212 "Instagram music related professionals"
 
-<h2>Free access to web data collection tools and datasets for academic researchers and NGOs"</h2>
+<h2>Free access to web data collection tools and datasets for academic researchers and NGOs</h2>
 
 The Bright Initiative offers access to Bright Data's web data platform to leading academic faculties and researchers, NGOs and NPOs promoting various environmental and social causes. You can submit an application [here](https://brightinitiative.com).
