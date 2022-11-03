@@ -1,6 +1,6 @@
 # instagram-dataset-samples
 
-A sample dataset of 2180 Instagram coding influencers
+<h2>A sample dataset of 2180 Instagram coding influencers</h2>
 
 ![instagram dataset header](https://github.com/luminati-io/Instagram-dataset-samples/blob/main/Instagram%20Datasets.png)
 
@@ -48,6 +48,8 @@ Get the full Instagram dataset on <b>[Bright Data datasets page](https://brightd
 *   1,300,000 "Leading Instagram influencers" (over 900 followers and over 2.5% post engagement rate)
 *   1,100,000 "Leading Instagram business accounts"
 *   2,035,212 "Instagram music related professionals"
+
+![Instagram dataset visual](https://github.com/luminati-io/Instagram-dataset-samples/blob/main/ig_dataset.PNG)
 
 <h2>Free access to web data collection tools and datasets for academic researchers and NGOs</h2>
 
