@@ -1,5 +1,3 @@
-[![Promo](https://github.com/luminati-io/Instagram-dataset-samples/blob/main/first-deposit-banner.PNG)](https://brightdata.com/products/datasets/instagram)
-
 # instagram-dataset-samples
 
 <h2>A sample dataset of 2180 Instagram coding influencers</h2>
