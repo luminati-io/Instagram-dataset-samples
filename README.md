@@ -49,8 +49,6 @@ Get the full Instagram dataset on <b>[Bright Data's page](https://brightdata.com
 *   21,100,000 "Instagram posts"
 *   88,800 "Instagram reels"
 
-![Instagram dataset visual](https://github.com/luminati-io/Instagram-dataset-samples/blob/main/ig_dataset.PNG)
-
 <h2>Free access to web scraping tools and datasets for academic researchers and NGOs</h2>
 
 The Bright Initiative offers access to Bright Data's [Web Scraper APIs](https://brightdata.com/products/web-scraper) to leading academic faculties and researchers, NGOs and NPOs promoting various environmental and social causes. You can submit an application [here](https://brightinitiative.com).
