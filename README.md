@@ -41,13 +41,14 @@ Dataset delivery type options: <b>API download, Amazon S3, Google cloud, Microso
 
 Data enrichment available as an addition to the data points extracted: <b>Avg. post engagement rate, brand affiliation and more.</b>
 
-Get the full Instagram dataset on <b>[Bright Data's page](https://brightdata.com/products/datasets/instagram)</b>.
+Get the full  <b>[Instagram dataset](https://brightdata.com/products/datasets/instagram)</b>.
 
 <h2>Additional Instagram datasets available:</h2>
 
-*   614,000,000 "Instagram profiles" 
-*   21,100,000 "Instagram posts"
-*   88,800 "Instagram reels"
+*   635,000,000 "Instagram profiles dataset" 
+*   89,000,000 "Instagram posts dataset"
+*   12,490,000 "Instagram reels dataset"
+*   206,000 "Instagram comments dataset"
 
 <h2>Free access to web scraping tools and datasets for academic researchers and NGOs</h2>
 
